@@ -2,21 +2,17 @@
 
 ###
 
-<h3 align="left">👩‍💻 Desenvolvedor FullStack</h3>
+<h3 align="left">👩‍💻 Desenvolvedor Mobile FullStack</h3>
 
 ###
 
-<p align="left"> 🌍 Curitiba - PR.<br><br>- 🔭 Desenvolvedor Mobile...
-<br>- ✉️ email gabriel.baliero.oliv@gmail.com<br></p>
+<p align="left"> 🌍 Curitiba - PR.<br>
 
-###
-
-<h3 align="left">🛠 Principais Linguagens e Frameworks</h3>
 
 ###
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="36" height="36" />
 </p>
 
 ### Socials
