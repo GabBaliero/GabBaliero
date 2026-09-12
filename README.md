@@ -2,34 +2,8 @@
 
 ###
 
-<h3 align="left">💻 Desenvolvedor Mobile FullStack</h3>
+<h3 align="left">💻 Desenvolvedor FullStack Web & Mobile </h3>
 <p align="left"> 🌍 Curitiba - PR.<br>
-
-###
-
-- Javascript/Typescript
-- node.js
-- react native + expo
-
-###
-
-- ASP.NET Core
-- C#
-
-###
-
-- postgreSQL
-- MySQL
-- SQL Server
-
-###
-
-- GIT/GITHUB
-- Docker
-- Svn
-- Postman
-
-###
 
 ### Socials
 
