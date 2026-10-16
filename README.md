@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">💻 Desenvolvedor FullStack Web & Mobile </h3>
-<p align="left"> 🌍 Curitiba - PR.<br>
+<p align="left"> 🌍 Curitiba - PR<br>
 
 ### Socials
 
